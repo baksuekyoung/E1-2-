@@ -1,0 +1,19 @@
+{
+    "best_score": 100,
+    "history": [
+        {
+            "date": "2026-11-05 14:00:00",
+            "total_questions": 5,
+            "correct_count": 5,
+            "score": 100
+        }
+    ],
+    "quizzes": [
+        {
+            "question": "Python의 창시자는 누구인가?",
+            "choices": ["Guido van Rossum", "Linus Torvalds", "Bjarne Stroustrup", "James Gosling"],
+            "answer": 1,
+            "hint": "파이썬의 이름은 그가 좋아하는 코미디 쇼에서 유래했습니다."
+        }
+    ]
+}
